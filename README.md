@@ -2,6 +2,8 @@
 
 An **~819-byte deterministic kernel** that reconstructs a sequence’s past through replay and converts that reconstructed history into a **stable cryptographic identity**.
 
+[![RIC Verification](https://github.com/OMPSHUNYAYA/RIC-Proof/actions/workflows/verify.yml/badge.svg)](https://github.com/OMPSHUNYAYA/RIC-Proof/actions/workflows/verify.yml)
+
 ![Deterministic](https://img.shields.io/badge/Deterministic-Yes-green)
 ![Replay--Identity](https://img.shields.io/badge/Replay%20Identity-S_A%20%3D%20S_B-brightgreen)
 ![Identity--Capsule](https://img.shields.io/badge/Capsule-SHA256(history(sequence))-blue)
@@ -11,6 +13,8 @@ An **~819-byte deterministic kernel** that reconstructs a sequence’s past thro
 ![Standard](https://img.shields.io/badge/Standard-Open-blue)
 
 Run it. See it work. Verify it. Understand the idea in seconds.
+
+---
 
 **Replay-Verifiable • Deterministic • Minimal Kernel • Structural Demonstration**
 
